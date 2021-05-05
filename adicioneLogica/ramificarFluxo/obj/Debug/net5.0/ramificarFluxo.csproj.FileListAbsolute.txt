@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ref\ramificarFluxo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\bin\Debug\net5.0\ramificarFluxo.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ref\ramificarFluxo.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\ramificarFluxo\obj\Debug\net5.0\ramificarFluxo.genruntimeconfig.cache
