@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\ref\iteracaoFor.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\bin\Debug\net5.0\iteracaoFor.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\ref\iteracaoFor.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\iteracaoFor\obj\Debug\net5.0\iteracaoFor.genruntimeconfig.cache

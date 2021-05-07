@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\ref\loop_while_do-while.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\bin\Debug\net5.0\loop_while_do-while.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\ref\loop_while_do-while.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\TrilhasDotNet\adicioneLogica\loop_while_do-while\obj\Debug\net5.0\loop_while_do-while.genruntimeconfig.cache
